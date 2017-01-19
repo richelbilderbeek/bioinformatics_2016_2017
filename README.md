@@ -6,7 +6,7 @@ Bioinformatics course at University of Groningen 2016-2017.
 
  * 9:30 - 9:45 Lecture Kees
  * 9:45 - 10:00 Exercise create github
- * 10:00 - 10:15 Lecture Jork
+ * 10:00 - 10:15 Lecture Jorik
  * 10:15 - 10:30 Exercise create repository + workflow
 
  * 10:30 - 10:45 Break
