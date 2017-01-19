@@ -1,7 +1,9 @@
-# bioinformatics_2016_2017
+# bioinformatics 2016-2017
 Bioinformatics course at University of Groningen 2016-2016
 
 ## Schedule
+
+[of last year]
 
  * 9:00-9:15: Lecture by Richel (*): What, Why, Mastery of git and GitHub, exercise
  * 9:15-9:20: Read grading
@@ -86,3 +88,8 @@ For foreigners, this is (my interpretation of) the Dutch number scale:
 * 3: Terrible (very rare)
 * 2: Utter crap (extremely rare)
 * 1: Did not do anything
+
+## Presentation Git en GitHub 
+
+ * Presentation Kees: 
+ * Presentation Richel (in 2015-2016 course): [https://github.com/richelbilderbeek/CppPresentations/blob/master/Git.pdf](here)
