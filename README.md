@@ -96,5 +96,5 @@ For foreigners, this is (my interpretation of) the Dutch number scale:
 
 ## Presentation Git en GitHub 
 
- * Presentation Kees: 
- * Presentation Richel (in 2015-2016 course): [https://github.com/richelbilderbeek/CppPresentations/blob/master/Git.pdf](here)
+ * Presentation Kees: [here](20170120Git and GitHub.pptx)
+ * Presentation Richel (in 2015-2016 course): [here](https://github.com/richelbilderbeek/CppPresentations/blob/master/Git.pdf)
