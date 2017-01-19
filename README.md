@@ -1,14 +1,24 @@
 # bioinformatics 2016-2017
 
-Bioinformatics course at University of Groningen 2016-2016.
+Bioinformatics course at University of Groningen 2016-2017.
 
 ## Schedule
 
 [of last year]
 
 [should now start at 9:30]
+ * 9:30 - 9:45 Lecture Kees
+ * 9:45 - 10:00 Exercise create github
+ * 10:00 - 10:15 Lecture Jork
+ * 10:15 - 10:30 Exercise create repository + workflow
+ 
+ * 10:30 - 10:45 Break
+ 
+ * 10:45 - 11:00 Lecture Kees
+ * 11:00 - 11:10 Exercise Fairy tale reading + mark reading Richel
+ * 11:10 - 12:30 Exercise Fairy tale + workflow + marks
 
- * 9:30-9:??: Lecture by Kees and Jorik
+/////
  * 9:15-9:20: Read grading
  * 9:25-9:35: git workflow demo
  * 9:35-9:45: Experiment: create GitHub, try workflow
@@ -20,6 +30,7 @@ Bioinformatics course at University of Groningen 2016-2016.
  * 11:00-11:15: Lecture by Richel: collaboration
  * 11:15-11:55: Experiment
  * 11:55-12:00: Closing lecture by Richel
+ /////
 
 Lectures start *sharply* at the time indicated. The most important lecture will be from 9:40-9:45. Breaks are mandatory (getting away from that computer improves learning), but only for something quick, e.g. getting a coffee. 
 
