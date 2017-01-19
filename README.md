@@ -38,15 +38,15 @@ Deadline for these is at Thursday the 20th of Januray 18:00 (note: with your Git
 The GitHub you create for your project should demonstrate that you've explored the possibilities of GitHub.
 Possibilities to explore are, for example:
 
- * Create a nice README.md with useful pictures
+ * Create a nice `README.md` with useful pictures
  * Put your TODO list at the Issues
  * Add a license
- * Add a .gitignore file
+ * Add a `.gitignore` file
  * Issues that are closed
  * Make a commit with the right username and email address
- * Multiple commits with meaningfull commit messages
- * A merge conflict that has been checked in, then fixed in a later commit
- * A complete deletion of the GitHub, that has been undone in the next commit
+ * Multiple commits with meaningful commit messages
+ * A merge conflict that has been checked in, then fixed in a later commit, e.g. [Fairytale_test](https://github.com/Lumphie/Fairytale_test)
+ * A complete deletion of the GitHub its content, that has been undone in the next commit
  * A Pull Request from someone else, that has been accepted
  * A Pull Request from someone else, that has been rejected
 
@@ -54,7 +54,7 @@ Also the GitHub profile should demonstrate that you've explored the possibilties
 Possibilities are, for example:
 
  * A profile picture
- * Becoming a collaborator at another GitHub (e.g. `github.com/richelbilderbeek/HetRoversnest`) and add content
+ * Becoming a collaborator at another GitHub (e.g. those of your classmates) and add content
  * Issue posted at GitHubs you are not a collaborator of
  * A GitHub you have forked
  * A successfull Pull Request you have made to another GitHub (e.g. `github.com/richelbilderbeek/RichelbilderbeekNl`)
