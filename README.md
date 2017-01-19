@@ -33,7 +33,7 @@ You will be graded on three things:
  * Your GitHub profile
  * A document titled 'The Grade I Deserve Is ...'
 
-Deadline for these is at Thursday the 20th of Januray 18:00 (note: with your GitHub work, I will take a look at the repository at the last time before 18:01).
+Deadline for these is at Thursday the 20th of January 18:00 (note: with your GitHub work, I will take a look at the repository at the last time before 18:01).
 
 The GitHub you create for your project should demonstrate that you've explored the possibilities of GitHub.
 Possibilities to explore are, for example:
@@ -49,15 +49,16 @@ Possibilities to explore are, for example:
  * A complete deletion of the GitHub its content, that has been undone in the next commit
  * A Pull Request from someone else, that has been accepted
  * A Pull Request from someone else, that has been rejected
+ * Create more branches
 
 Also the GitHub profile should demonstrate that you've explored the possibilties of GitHub.
 Possibilities are, for example:
 
  * A profile picture
- * Becoming a collaborator at another GitHub (e.g. those of your classmates) and add content
+ * Becoming a collaborator at another GitHub and add content
  * Issue posted at GitHubs you are not a collaborator of
  * A GitHub you have forked
- * A successfull Pull Request you have made to another GitHub (e.g. `github.com/richelbilderbeek/RichelbilderbeekNl`)
+ * A successfull Pull Request you have made to another GitHub
  * A Pull Request you've made to another GitHub, that has been rejected
  * Following people
  * Starring GitHub projects
@@ -74,10 +75,11 @@ Things that have low/none impact for your grade:
  
 For those going for a high grade:
 
-* Fix more complex Issues, especially of your classmates
-* Assist me, after convincing me *before the lecture* (e.g. by email) you are already familiar with Git and GitHub
-* Improve the code of your classmates
-* Experiment with Git and GitHub features that I have not described
+ * Fix more complex Issues, especially of your classmates
+ * Improve the code of your classmates
+ * Experiment with Git and GitHub features that I have not described
+ * Use Travis CI to check something
+ * Display a Travis CI badge
 
 For foreigners, this is (my interpretation of) the Dutch number scale:
 
